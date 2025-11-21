@@ -21,7 +21,7 @@ I'm a Computer Science PhD student at Singapore Management University (SMU), sup
 
 My research interests include generative recommendation and computational fashion. In generative recommendation, I use generative models to create new items for users that better align with their preferences and are not limited by the scope of the existing dataset.
 I also transfer the real-world knowledge into image-generation or multimodal models, and incorporate reinforcement-learning strategies to improve the recommendation performance.
-In computational fashion, 
+The computational fashion includes vitual try-on, matching and outfit recommendation.
 
 
 # 🔥 News
