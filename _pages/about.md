@@ -19,11 +19,9 @@ redirect_from:
 
 I'm a Computer Science PhD student at Singapore Management University (SMU), supervised by Prof.Yunshan Ma. Before that, I obtained my bachelor's and master's degrees in Artificial Intelligence from Shandong University (SDU), China.
 
-My research interest includes Generative Recommendation and Computational Fashion. In Generative Recommendation, I use the generative models to produce new items for user that better align with user preference and 
-I transfer the outside world knowledge into the image generation model or multimodal model, also includes the Reinforcement Learning strategies, that enhance the recomendation 
-
-
-neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include generative recommendation and computational fashion. In generative recommendation, I use generative models to create new items for users that better align with their preferences and are not limited by the scope of the existing dataset.
+I also transfer the real-world knowledge into image-generation or multimodal models, and incorporate reinforcement-learning strategies to improve the recommendation performance.
+In computational fashion, 
 
 
 # 🔥 News
