@@ -21,12 +21,14 @@ I'm a Computer Science PhD student at Singapore Management University (SMU), sup
 
 My research interests include generative recommendation and computational fashion. In generative recommendation, I use generative models to create new items for users that better align with their preferences and are not limited by the scope of the existing dataset.
 I also transfer the real-world knowledge into image-generation or multimodal models, and incorporate reinforcement-learning strategies to improve the recommendation performance.
-The computational fashion includes vitual try-on, matching and outfit recommendation.
+In the area of computational fashion, my work focus on virtual try-on, fashion matching, and outfit recommendation.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11*: &nbsp;🎉🎉 I served as the volunteer In the 6th ACM International Conference on AI in Finance (ICAIF'25).
+- *2025.8*: &nbsp;🎉🎉 I started my PhD studies in School of Computing and Information Systems, Singapore Management University.
+- *2025.8*: &nbsp;🎉🎉 One paper accepted by the ACM Multimedia'25 Demo Track.
+- *2025.4*: &nbsp;🎉🎉 One paper accepted by SIGIR'25.
 
 # 📝 Publications 
 
